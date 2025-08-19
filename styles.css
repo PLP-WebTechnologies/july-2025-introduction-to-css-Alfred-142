@@ -1,0 +1,12 @@
+body {
+background: blue;
+font-style: italic;
+
+}
+main heading{
+
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    margin: 20px;
+}
